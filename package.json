@@ -5,9 +5,10 @@
   "main": "index.js",
   "author": "Grant Timmerman",
   "private": true,
-  "license": "BSD",
+  "license": "BSD"
   "dependencies": {
-    "express": "4.13.4"
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   },
   "scripts": {
     "start": "node index.js"
